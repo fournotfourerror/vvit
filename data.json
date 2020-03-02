@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"Sai",
+        "role":"Fresher",
+        "email":"sai@gmail.com",
+        "mobile":"+91 8767543621",
+        "education":[
+            {
+                "degree":"SSC",
+                "percentage":9.7
+            },
+            {
+                "degree":"INTER",
+                "percentage":96.3
+            },
+            {
+                "degree":"B-Tech",
+                "percentage":9.7
+            }
+        ]
+    }
+}
